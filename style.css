@@ -75,19 +75,19 @@ html, body {
   margin-bottom: 1rem;
 }
 
-.fa-smile {
-  color: #e54d26;
-}
-
-.fa-user {
+.fa-users {
   color: #563d7c;
 }
 
-.fa-code {
-  color: #2163af;
+.fa-leanpub {
+  color: #563d7c;
 }
 
-.fa-smile, .fa-user, .fa-code {
+.fa-link {
+  color: #563d7c;
+}
+
+.fa-users, .fa-leanpub, .fa-link {
   font-size: 4em;
   margin: 1rem;
 }
@@ -95,6 +95,14 @@ html, body {
 .social a {
   font-size: 4.5em;
   padding: 3rem;
+}
+
+.card-title {
+  font-size: 1.3em;
+}
+
+.fa-linkedin {
+  font-size: 1.5em;
 }
 
 .fa-facebook {
