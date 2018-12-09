@@ -75,19 +75,8 @@ html, body {
   margin-bottom: 1rem;
 }
 
-.fa-users {
-  color: #563d7c;
-}
-
-.fa-leanpub {
-  color: #563d7c;
-}
-
-.fa-link {
-  color: #563d7c;
-}
-
 .fa-users, .fa-leanpub, .fa-link {
+  color: #563d7c;
   font-size: 4em;
   margin: 1rem;
 }
@@ -123,6 +112,10 @@ html, body {
 
 .fa-facebook:hover, .fa-twitter:hover, .fa-instagram:hover, .fa-youtube:hover {
   color: #d5d5d5;
+}
+
+.card:hover {
+  box-shadow: 10px 10px 5px #aaaaaa
 }
 
 /*---Media Queries --*/
